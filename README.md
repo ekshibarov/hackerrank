@@ -1,0 +1,1 @@
+# Resolved challenges for HackerRank using Go and Python 3
